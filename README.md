@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Favcolz
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning VueJS
 
 <!---
 Favcolz/Favcolz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
