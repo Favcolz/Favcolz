@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Favcolz
+- 👋 Hi, I’m Max 
 - 👀 I’m interested in Technology
 
 <!---
